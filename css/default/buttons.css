@@ -1,0 +1,8 @@
+
+.button {
+    cursor: default;
+    display: inline-block;
+    background-color: blue;
+    padding: 10px 10px 10px 10px;
+    user-select: none;
+}
